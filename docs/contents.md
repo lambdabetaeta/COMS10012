@@ -66,4 +66,66 @@ Videos, slides and activity sheet
 
 * [Introduction to CSS](https://mediasite.bris.ac.uk/Mediasite/Play/e6ef7bb5b20349f5923f063dc4a106141d) (22 minutes) [slides](./slides/CSSIntroduction.pdf)
 
-* [Activity sheet](./slides/ActivitySheet.pdf)
+* [Activity sheet](./exercises/web/ActivitySheet_Week21_Tuesday.pdf)
+
+Friday Week 21
+
+Videos, slides and activity sheet
+
+* [Introduction to JavaScript, the HTML DOM and JSON](https://mediasite.bris.ac.uk/Mediasite/Play/2bfce318d4b84c12b9ee12dd9f2729a51d) (27 minutes) [slides](./slides/JavaScript_DOM_JSON.pdf)
+
+* [Activity sheet](./exercises/web/ActivitySheet_Week21_Friday.pdf)
+
+Tuesday Week 22
+
+There are no lectures for this session. The activity sheet gives a series of coding exercises that involve accessing Web APIs and dynamically loading data into an HTML page. This builds on the activity from Friday Week 21 and introduces you to a number of different Web APIs and also the fetch function. Here are three files to get you started:
+
+* [index.html](./resources/week22/index.txt)
+
+* [style.css](./resources/week22/style.css)
+
+* [script.js](./resources/week22/script.js)
+
+* [Activity sheet](./resources/week22/ActivitySheetTuesdayWeek22.pdf)
+
+Friday Week 22
+
+There are no lectures for this session. The activity involves modifying a sample Spring web application that displays information about UK geography, which you hopefully already know from your databases exercises. On Tuesday the activity will build on this Spring web application and focus on using React to display the county information.
+
+* [Activity sheet](./exercises/web/censusexplorer.html)
+
+## Week 23: The Cloud
+
+We have selected a subset of lectures from a later-year unit on _Cloud Computing_ to give you an introduction to the topic.
+
+Both workshops this week will be a continuation of the Week 22 activities, but we still suggest that you watch the first cloud lectures before Tuesday week 23.
+
+Both workshops this week still count towards your 75% attendance hurdle.
+
+
+**For Tuesday**:
+
+  - [Introduction](https://mediasite.bris.ac.uk/Mediasite/Play/0ad3ecd639aa4f67a9b0d1d162c5f7a21d) (19 minutes)
+  - [Economics](https://mediasite.bris.ac.uk/Mediasite/Play/135444aa12ff4c26b8a9c7ad693e1fa61d) (16 minutes)
+  - [As A Service](https://mediasite.bris.ac.uk/Mediasite/Play/ff04fe5695bf4604bf478405fc9266f81d) (6 minutes)
+  - [Amazon Web Services examples](https://mediasite.bris.ac.uk/Mediasite/Play/3d1ac0e5b012470f9be58c40e000c7c01d) (7 minutes)
+  - [Amazon Web Services: IaaS](https://mediasite.bris.ac.uk/Mediasite/Play/ea34704392794239b5ecc9517de691771d) (10 minutes)
+  - [Google App Engine / PaaS](https://mediasite.bris.ac.uk/Mediasite/Play/7874354926e846ec8cbfb206d6c6047f1d) (8 minutes)
+  - [Other providers](https://mediasite.bris.ac.uk/Mediasite/Play/c4eb1e2b73c544d7bed5a6df828de4281d) (6 minutes)
+
+  If you have completed last week's activities, then you can start on the activity for this workshop, which  introduces you to React, a JavaScript library that is used to build user interfaces and single page web applications. You will first follow parts of one of the best online introductory React tutorials. You will then explore a React app that pulls data from the Petstore API that we were using last Tuesday. This is a more complex React app than the ones you will have developed as part of the introductory tutorial. You will make some changes to the app to extend its functionality.
+  
+  * [Activity sheet](./resources/week23/ActivitySheetTuesdayWeek23.pdf)
+
+**For Friday**:
+
+  - [Introduction](https://mediasite.bris.ac.uk/Mediasite/Play/06ceda3dd34c49b9b802a6f2e8cb9a6c1d) (10 minutes)
+  - [Key-Value Databases](https://mediasite.bris.ac.uk/Mediasite/Play/9b125a5499554316be6cb73449e7aaf71d) (16 minutes)
+  - [Document Databases](https://mediasite.bris.ac.uk/Mediasite/Play/4a9cece0618a429295d6d5254202c8f61d)  (7 minutes)
+  - [Column-Family Databases](https://mediasite.bris.ac.uk/Mediasite/Play/785791610bb54851b7b3a347b448f4181d) (9 minutes)
+  - [Graph Databases](https://mediasite.bris.ac.uk/Mediasite/Play/cf8bf402b10546e9af85ea1b502929811d) (13 minutes)
+  - [Choosing a Database](https://mediasite.bris.ac.uk/Mediasite/Play/2f523af23cdf470c8a612ca8277985011d) (9 minutes) 
+
+## Week 24
+
+Week 24 is revision week. The workshops become drop-ins, they are not mandatory and also do not count towards your attendance. There is no new content this week.
